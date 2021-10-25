@@ -4,7 +4,7 @@
 
 <p align="center">
   <span>
-    <img src="" alt="Ally's stats" height=175 />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JhonatanScremim&layout=compact&show_icons=true&theme=algolia" alt="Ally's stats" height=175 />
   </span>
   <span>
     <img src="https://github-readme-stats.vercel.app/api?username=JhonatanScremim&show_icons=true&theme=algolia" alt="Ally's stats" height=175 />
